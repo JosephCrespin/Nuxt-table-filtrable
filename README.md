@@ -1,5 +1,5 @@
 # Below is a mini guide of the steps I followed to integrate the data into the project schedule
-## STEP 1: Creation of Dades Structures
+## STEP 1: Creation of Data Structures
 
 First, create the data structures necessary to the new data base. Use the following SQL to create the `customers` and `products` tables:
 
@@ -28,7 +28,7 @@ CREATE TABLE products (
 );
 ```
 
-## STEP 2: Dades Insertion
+## STEP 2: Data Insertion
 
 Insert data into the numbers `customers` and `products` as necessary. Here are examples of com fer-ho:
 
